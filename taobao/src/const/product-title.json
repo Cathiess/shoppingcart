@@ -1,0 +1,30 @@
+[
+  {
+    "title": "全选",
+    "width": 80
+  },
+  {
+    "title": "商品信息",
+    "width":302
+  },
+  {
+    "title": "",
+    "width":172
+  },
+  {
+    "title": "单价",
+    "width":120
+  },
+  {
+    "title": "数量",
+    "width":120
+  },
+  {
+    "title": "金额",
+    "width":105
+  },
+  {
+    "title": "操作",
+    "width": 100
+  }
+]

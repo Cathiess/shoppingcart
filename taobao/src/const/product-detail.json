@@ -1,0 +1,26 @@
+{
+  "phone": {
+    "img": "phone",
+    "name": "VERTU 纬图 ASTER P 巴洛克系列商务智能手机双卡双待 全网通4G",
+    "config": "机身颜色：墨玉黑<br/>版本类型：中国大陆<br/>套餐类型：官方标配<br/>存储容量：128GB",
+    "price": "29800.00",
+    "count": 0,
+    "checked": false
+  },
+  "mac": {
+    "img": "mac",
+    "name": "【开学价】【12期免息】2020新款 Apple/苹果 MacBook Pro 13.3英寸",
+    "config": "套餐类型：官方标配<br/>硬盘容量：512GB 固态硬盘<br/>颜色分类：深空灰色<br/>内存容量：16GB 3733MHz LPDDR4X 内存",
+    "price": "14499.00",
+    "count": 0,
+    "checked": false
+  },
+  "key": {
+    "img": "key",
+    "name": "【开学价】HHKB Professional HYBRID 双模版静电容键盘",
+    "config": "套餐类型：官方标配<br/>颜色分类：白无刻",
+    "price": "2388.00",
+    "count": 0,
+    "checked": false
+  }
+}

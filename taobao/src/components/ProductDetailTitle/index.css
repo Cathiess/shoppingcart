@@ -1,0 +1,25 @@
+.detailContainer{
+  width:1000px;
+  margin: 0 auto;
+  height:50px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 50px;
+}
+.detailContainer div{
+  display: flex;
+  align-items: center;
+}
+.selectCircle{
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border: 1px solid #909090;
+  margin-right: 15px;
+  border-radius: 50%;
+}
+.selectCircleActive{
+  background: #ff4400;
+  border: 1px solid #ff4400;
+}

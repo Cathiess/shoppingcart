@@ -1,0 +1,43 @@
+.logoContainer{
+  width:1000px;
+  height: 95px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top:20px;
+  display: flex;
+  justify-content: space-between;
+}
+.logoImage{
+  width:180px;
+  height:45px;
+}
+
+.logoImage img{
+  width:100%;
+}
+
+.logoSearch{
+  float: right;
+  width:440px;
+  height:30px;
+  margin-top:10px;
+  border: 2px solid #f50;
+  position:relative;
+}
+.logoSearch * {
+  border: none;
+  outline: none;
+}
+.logoSearch input {
+  width:335px;
+  height:30px;
+  padding-left:10px;
+}
+.logoSearch button{
+  width:93px;
+  height:30px;
+  position:absolute;
+  right:0;
+  background:#f50;
+  color: white;
+}
